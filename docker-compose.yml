@@ -1,0 +1,9 @@
+services:
+  ubuntu:
+    build: .
+    stdin_open: true
+    tty: true
+    user: ubuntu
+    working_dir: /home/ubuntu/workspace
+    volumes:
+      - ./workspace:/home/ubuntu/workspace
