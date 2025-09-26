@@ -4,7 +4,7 @@
 
 - [Git](https://git-scm.com/downloads)
 - [Docker desktop](https://docs.docker.com/desktop/)
-- [VSCode](https://code.visualstudio.com/) avec [l'extension C++](https://code.visualstudio.com/docs/languages/cpp)
+- [VSCode](https://code.visualstudio.com/) avec [l'extension C++](https://code.visualstudio.com/docs/languages/cpp) et [l'extension Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers).
 
 Une fois les outils installés, s'assurer que Docker Desktop soit démarré.
 
